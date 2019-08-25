@@ -1,0 +1,6 @@
+runtime: python37
+
+env_variables:
+  SENDGRID_API_KEY: 'sendgrid api key here'
+  EMAIL_SENDER: 'sender@email.here'
+  EMAIL_RECIPIENT: 'receiver@email.here'
